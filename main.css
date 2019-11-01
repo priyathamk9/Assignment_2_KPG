@@ -4,7 +4,7 @@ Student Name: 	Priyatham Goud Kata
 Solution for Assignment 2
 ===============================================
 */
-
+	/*CSS for body tag*/
 		body 
 		{
 			padding-top: 5%;
@@ -12,6 +12,7 @@ Solution for Assignment 2
 			font-family: Times New Roman, cursive;
 			background-color: #fef6dd;
 		}
+	/*CSS for div tag*/
 		div
 		{	
 			color:#2f24a9
